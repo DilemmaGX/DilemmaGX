@@ -37,7 +37,7 @@
 
 </div>
 
-<div align="center"><h2>Learning 📚</h1>
+<div align="center"><h2>Learning 🔬</h1>
 
 <div align="center">
   <a><img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"></img></a>
