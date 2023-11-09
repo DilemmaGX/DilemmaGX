@@ -45,7 +45,7 @@
 
 </div>
 
-<div align="center"><h2>Dev info 🛠️</h1></div>
+<div align="center"><h2>Personal Profile 🛠️</h1></div>
 
 <div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilemmaGX"></img></a>
