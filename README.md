@@ -1,6 +1,8 @@
 <div align="center"><h1>Hi 👋</h1></div>
 
 <div align="center">
+  <a><img alt="Static Badge" src="https://komarev.com/ghpvc/?username=dilemmagx"></img></a>
+  
   <a><img alt="Static Badge" src="https://img.shields.io/badge/DilemmaGx42093-000000?logo=x"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/DilemmaGX-pink?logo=bilibili&logoColor=blue?link=https%3A%2F%2Fspace.bilibili.com%2F702079254"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/2931682554-blue?logo=tencentqq"></img></a>
@@ -45,10 +47,14 @@
 
 </div>
 
-<div align="center"><h2>Personal Profile 🛠️</h1></div>
+<div align="center"><h2>GitHub Stats 🛠️</h1></div>
 
-<div align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilemmaGX"></img></a>
-  
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DilemmaGX&show_icons=true"></img></a>
-</div>
+<div align="center"><table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dilemmagx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmagx&hide_border=true&layout=compact" align="left" style="width: 95%" />
+
+</td></tr></table></div>
