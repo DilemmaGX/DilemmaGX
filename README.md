@@ -3,8 +3,11 @@
 <div align="center">
   <a><img alt="Static Badge" src="https://komarev.com/ghpvc/?username=dilemmagx"></img></a>
   
+  <a><img alt="Static Badge" src="https://img.shields.io/github/stars/dilemmagx?style=social"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/github/followers/dilemmagx?style=social"></img></a>
+  
   <a><img alt="Static Badge" src="https://img.shields.io/badge/DilemmaGx42093-000000?logo=x"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/DilemmaGX-pink?logo=bilibili&logoColor=blue?link=https%3A%2F%2Fspace.bilibili.com%2F702079254"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/DilemmaGX-pink?logo=bilibili&logoColor=blue"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/2931682554-blue?logo=tencentqq"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/gfxaj696-darkgreen?logo=wechat&logoColor=white"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/gfxaj@qq.com-coral?logo=gmail&logoColor=white"></img></a>
