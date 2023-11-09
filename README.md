@@ -53,12 +53,12 @@
 <div align="center"><h2>GitHub Stats 🛠️</h1></div>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dilemmagx" />
 </div>
 
 <div align="center">
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=dilemmagx" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmagx&layout=compact&langs_count=8" />
   <span>  </span>
 </div>
 
