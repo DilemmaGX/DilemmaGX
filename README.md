@@ -60,7 +60,10 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
   <span>  </span>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" /> </div>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
+</picture>
