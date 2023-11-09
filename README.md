@@ -63,7 +63,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilemmagx&theme=github-light" />
 </picture>
