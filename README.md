@@ -13,14 +13,6 @@
   <a><img alt="Static Badge" src="https://img.shields.io/badge/gfxaj@qq.com-coral?logo=gmail&logoColor=white"></img></a>
 </div>
 
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img src="./assets/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
 <div align="center"><h2>Working on 🤔</h1>
 
 <div align="center">
