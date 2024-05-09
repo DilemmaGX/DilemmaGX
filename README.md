@@ -16,15 +16,8 @@
 <div align="center"><h2>Working on 🤔</h1>
 
 <div align="center">
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Gandi-Animator.js-coral"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Gandi-GpdPro.js-coral"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Gandi-AcMath.js-coral"></img></a>
-</div>
-
-<div align="center">
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-Bare_Bones_Plus_Series-darkgreen"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-Bare_Bones_Plus_Reimagined_Series-darkgreen"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft-Novi_Pack_Series-darkgreen"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/GekoWarp-scratch--gui-coral"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/GekoWarp-scratch--vm-coral"></img></a>
 </div>
 
 </div>
