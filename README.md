@@ -25,12 +25,14 @@
 <div align="center"><h2>Learning 🔬</h1>
 
 <div align="center">
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"></img></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Scratch--vm-4D97FF?logo=scratch&logoColor=white"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"></img></a>
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/GSAP.js-88CE02?logo=greensock&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-646CFF?logo=typescript&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Vite-white?logo=vite&logoColor=bc35fe"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white"></img></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=white"></img></a>
 </div>
 
 </div>
