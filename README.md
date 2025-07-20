@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi 👋</h1></div>
+<div align="center"><h1>Hi 👋, This is Yiming Chen</h1></div>
 
 <div align="center">
   <a><img alt="Static Badge" src="https://komarev.com/ghpvc/?username=dilemmagx"></img></a>
